@@ -1,2 +1,0 @@
-token-url=https://devauth.mit.com.mx/oauth2/token
-apikey-url=https://devsigma.mitec.com.mx/msgTknCore/genKeys
