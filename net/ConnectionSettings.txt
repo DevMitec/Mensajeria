@@ -1,0 +1,8 @@
+tokenUrl=https://devauth.mit.com.mx/oauth2/token
+apikeyUrl=https://devsigma.mitec.com.mx/msgTknCore/genKeys6
+setApiKeyConnectionTimeout=20000
+setApiKeySocketTimeout=40000
+setServiceConnectionTimeout=20000
+setServiceSocketTimeout=40000
+setOAuthConnectionTimeout=2000
+setOAuthSocketTimeout=4000
