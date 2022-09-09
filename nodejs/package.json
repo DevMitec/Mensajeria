@@ -1,0 +1,19 @@
+{
+  "name": "mitsdkseguridadnodejs",
+  "version": "1.0.0",
+  "description": "Paqueteria de Incriptacion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "query-string": "^7.1.1",
+    "utileriasdb": "^1.0.1"
+  }
+}
